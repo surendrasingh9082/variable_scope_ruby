@@ -9,6 +9,8 @@ class Demo
   def method_first
     puts "#{@name} #{@id}"
   end
+
+
   # method_second code
   def method_second
     puts "#{@name} #{@id}"
